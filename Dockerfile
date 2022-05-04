@@ -1,4 +1,4 @@
-FROM node:17.8.0-buster-slim
+FROM node:18.1.0-buster-slim
 
 ENV PATH="$PATH:/app/node_modules/.bin"
 
