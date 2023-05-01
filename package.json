@@ -1,7 +1,7 @@
 {
   "name": "docker-semantic-release",
   "dependencies": {
-    "semantic-release": "^19.0.5",
+    "semantic-release": "^21.0.2",
     "conventional-changelog-conventionalcommits": "^5.0.0"
   }
 }
